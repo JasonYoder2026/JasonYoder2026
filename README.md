@@ -18,4 +18,9 @@ enjoy:</p>
 </ul>
 
 
-<h2>Check out some of my <a href = "https://github.com/JasonYoder2026/Personal-Projects">finished projects</a>!</h2>
+<h2>Check out some of my finished projects below!</h2>
+
+| Project | Description |
+|---------|-------------|
+|[Library System](https://github.com/JasonYoder2026/Library-System)| A library system with staff and customer accounts allowing them to interact with the system differently.|
+
