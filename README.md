@@ -23,4 +23,7 @@ enjoy:</p>
 | Project | Description |
 |---------|-------------|
 |[Library System](https://github.com/JasonYoder2026/Library-System)| A library system with staff and customer accounts allowing them to interact with the system differently.|
-
+|[Bank System](https://github.com/JasonYoder2026/Bank-System) | A bank system that allows multiple customers to create accounts and modify them.|
+|[Snake Game](https://github.com/JasonYoder2026/Snake) | A simple version of the iconic Snake game.|
+|[Pep/9 Assembler](https://github.com/JasonYoder2026/pep9Assembler) | A program that replicates how an assembler works for Pep/9 assembly code.|
+|[Wikipedia Article Editors](https://github.com/JasonYoder2026/Wikipedia-Revision-Authors) | A program that retrieves the recent authors of Wikipedia articles. |
