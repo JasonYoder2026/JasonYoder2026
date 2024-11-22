@@ -16,3 +16,6 @@ enjoy:</p>
 <li><a href="https://github.com/JasonYoder2026/Red-Black-Tree-Project">A binary red/black tree project for Algorithms and Data Structures.</a></li>
 <li><a href="https://github.com/JasonYoder2026/HexadecimalToBinary">A hexadecimal to binary converter for Computer Organization and Architecture.</a></li>
 </ul>
+
+
+<h2>Check out some of my <a href = "https://github.com/JasonYoder2026/Personal-Projects">finished projects</a>!</h2>
