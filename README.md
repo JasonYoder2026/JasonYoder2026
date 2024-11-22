@@ -10,9 +10,9 @@ enjoy:</p>
   <li>Relaxing with my friends and family 👨‍👩‍👦‍👦</li>
 </ul>
 
-<h3>I'm currently working on...</h3>
+<h2>I'm currently working on...</h2>
 <ul>
 <li><a href="https://github.com/bsu-cs222-fall24-dll/Final_Project-KevinMack-JasonYoder-KolbyAlvey-BrianRaymond">My final project for advanced programming/intro to Agile.</a></li>
-<li><a href="">A binary red/black tree project for Algorithms and Data Structures.</a></li>
-<li><a href="">A hexadecimal to binary converter for Computer Organization and Architecture.</a></li>
+<li><a href="https://github.com/JasonYoder2026/Red-Black-Tree-Project">A binary red/black tree project for Algorithms and Data Structures.</a></li>
+<li><a href="https://github.com/JasonYoder2026/HexadecimalToBinary">A hexadecimal to binary converter for Computer Organization and Architecture.</a></li>
 </ul>
