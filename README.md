@@ -13,7 +13,7 @@ enjoy:</p>
 <h2>I'm currently working on...</h2>
 <ul>
 <li><a href="https://github.com/bsu-cs222-fall24-dll/Final_Project-KevinMack-JasonYoder-KolbyAlvey-BrianRaymond">My final project for advanced programming/intro to Agile.</a></li>
-<li>[The Advent of Cyber on THM.]("https://tryhackme.com/r/room/adventofcyber2024")</li>
+<li><a href="https://tryhackme.com/r/room/adventofcyber2024">The Advent of Cyber on THM.]</li>
 </ul>
 
 
