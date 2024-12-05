@@ -26,6 +26,6 @@ enjoy:</p>
 |[Snake Game](https://github.com/JasonYoder2026/Snake) | A simple version of the iconic Snake game.|
 |[Pep/9 Assembler](https://github.com/JasonYoder2026/pep9Assembler) | A program that replicates how an assembler works for Pep/9 assembly code.|
 |[Wikipedia Article Editors](https://github.com/JasonYoder2026/Wikipedia-Revision-Authors) | A program that retrieves the recent authors of Wikipedia articles. |
-|[Hexadecimal -> Binary]("https://github.com/JasonYoder2026/HexadecimalToBinary") | A hexadecimal to binary converter for Computer Organization and Architecture. |
-|[Red/Black Tree]("https://github.com/JasonYoder2026/Red-Black-Tree-Project") | A binary red/black tree project for Algorithms and Data Structures. |
+|[Hexadecimal -> Binary](https://github.com/JasonYoder2026/HexadecimalToBinary) | A hexadecimal to binary converter for Computer Organization and Architecture. |
+|[Red/Black Tree](https://github.com/JasonYoder2026/Red-Black-Tree-Project) | A binary red/black tree project for Algorithms and Data Structures. |
 
