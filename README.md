@@ -12,8 +12,8 @@ enjoy:</p>
 
 <h2>I'm currently working on...</h2>
 <ul>
-<li><a href="https://github.com/bsu-cs222-fall24-dll/Final_Project-KevinMack-JasonYoder-KolbyAlvey-BrianRaymond">My final project for advanced programming/intro to Agile.</a></li>
-<li><a href="https://tryhackme.com/r/room/adventofcyber2024">The Advent of Cyber on THM.</li>
+  <li>Learning backend development</li>
+  <li>Creating fun projects with a new Raspberry Pi 5</li>
 </ul>
 
 
