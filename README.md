@@ -9,9 +9,9 @@ focusing on Cybersecurity and Secure Software. While I enjoy programming, I also
 - Spending time with my friends and family 👨‍👩‍👦‍👦
 
 ## I'm currently working on...
-- A [website for my father in-law](https://github.com/JasonYoder2026/Kyle-Comedy-Website)
+- A [website for a starting comedian](https://github.com/JasonYoder2026/Kyle-Comedy-Website)
 - My senior capstone project [Clean Stream Mobile App](https://github.com/jamaki604/CleanStreamLaundryApp)
-- A mobile app for my church
+- A mobile app for [NorthPoint Muncie](https://github.com/JasonYoder2026/north_point_church_app)
 - A multimedia Python library for [Ball State's CS120 course](https://github.com/dllargent/mediaComp)
 
 ## Check out some of my finished projects below!
