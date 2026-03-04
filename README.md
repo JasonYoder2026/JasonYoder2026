@@ -1,28 +1,71 @@
-# Welcome! 👋
+# Hi There! 👋
 
 ## About Me
-I'm Jason Yoder, a student at Ball State University studying Computer Science, 
-focusing on Cybersecurity and Secure Software. While I enjoy programming, I also enjoy:
+I'm Jason Yoder, a senior at Ball State University studying Computer Science, concentrating in Cybersecurity and Secure Software. I'm a full-stack software engineer with experience in delivering applications in a wide variety of technologies. I prioritize modularity, clean architecture, scalability, and thoughtful design when designing systems. I've built and maintained several CI/CD pipelines to deliver systems to production with ease. 
 
-- Making and listening to music in my free time. I play many instruments and even appear on a few albums 🎸
-- Spending time outdoors hiking, fishing, and playing yard games ☀️
-- Spending time with my friends and family 👨‍👩‍👦‍👦
+I'm seeking a long-term opportunity to grow as a software engineer by working with and learning from strong teams who are eager to share their knowledge.  
 
-## I'm currently working on...
-- A [website for a starting comedian](https://github.com/JasonYoder2026/Kyle-Comedy-Website)
-- My senior capstone project [Clean Stream Mobile App](https://github.com/jamaki604/CleanStreamLaundryApp)
-- A mobile app for [NorthPoint Muncie](https://github.com/JasonYoder2026/northpoint_church_app)
-- A multimedia Python library for [Ball State's CS120 course](https://github.com/dllargent/mediaComp)
 
-## Check out some of my finished projects below!
+## I'm currently working on:
+- My senior capstone project [Clean Stream Mobile App](https://github.com/jamaki604/CleanStreamLaundryApp). A Flutter mobile app for a startup laundromat Clean Stream Laundry Solutions.
+- A recipe website [Free Recipe](https://github.com/JasonYoder2026/freerecipe). Using Angular, ASP.NET, and PostgreSQL I'm building a website for people to share and save recipes for free.
+- A project management website [MergeFlow](https://github.com/JasonYoder2026/freerecipe). Using React, Spring Boot, and PostgreSQL I'm making a project management website for small teams and startups to manage their tasks.
+- Audio processing software similar to Line 6 Helix and Amplitube amplifier simulators. With C++ I'm utilizing memory management to make guitar pedal and amplifier simulators to process sound with very little latency. 
+
+## Some of my complete projects:
 
 | Project | Description |
 |---------|-------------|
-|[Restuarant Management System](https://github.com/JasonYoder2026/CS222-FinalProject)| A amangement system that would allow a restaurant to see data for everything from the kitchen to the dining room.|
-|[FTP Client/Server](https://github.com/JasonYoder2026/CS316-Project3) | A multithreaded FTP server/client model.|
-|[Snake Game](https://github.com/JasonYoder2026/Snake) | A simple version of the iconic Snake game.|
-|[Pep/9 Assembler](https://github.com/JasonYoder2026/pep9Assembler) | A program that replicates how an assembler works for Pep/9 assembly code.|
-|[Wikipedia Article Editors](https://github.com/JasonYoder2026/Wikipedia-Revision-Authors) | A program that retrieves the recent authors of Wikipedia articles. |
-|[Hexadecimal -> Binary](https://github.com/JasonYoder2026/HexadecimalToBinary) | A hexadecimal to binary converter for Computer Organization and Architecture. |
-|[Red/Black Tree](https://github.com/JasonYoder2026/Red-Black-Tree-Project) | A binary red/black tree project for Algorithms and Data Structures. |
+|[NorthPoint Church App](https://github.com/JasonYoder2026/northpoint_church_app)| A Flutter mobile app for my church, currently in beta testing.|
+|[FTP Client/Server](https://github.com/JasonYoder2026/CS316-Project3) | A multithreaded FTP server/client modeled in Java.|
+|[A Comedian's Website](https://github.com/JasonYoder2026/Kyle-Comedy-Website) | A Next.js website hosted on AWS for a small but growing comedian.|
+|[mediaComp](https://github.com/dllargent/mediaComp)| A pip installable Python package for media manipulation. |
 
+## My Techstack
+### Languages
+- Java
+- C/C++
+- C#
+- Python
+- Dart
+- JavaScript
+- HTML
+- CSS
+- TypeScript
+- SQL
+
+### Frameworks
+- Flutter
+- Spring Boot
+- ASP.NET
+- Django
+- Flask
+- FastAPI
+- Angular.js
+- React.js
+- Express.js
+- Next.js
+
+### Backend 
+- PostgreSQL
+- MongoDB
+- MySQL
+- REST API
+
+### Systems
+- GitHub Actions
+- CI/CD pipelines
+- Docker
+- AWS (Lambda, Amplify, SES, EC2)
+- Linux
+- Git
+
+### Ptactices
+- Agile Methodology
+- Unit Testing
+- OOP
+- Version Control
+- MVC
+- RESTful APIs
+- Modular Architecture
+- Secure Programming
