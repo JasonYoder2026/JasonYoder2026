@@ -9,7 +9,7 @@ I'm seeking a long-term opportunity to grow as a software engineer by working wi
 ## I'm currently working on:
 - My senior capstone project [Clean Stream Mobile App](https://github.com/jamaki604/CleanStreamLaundryApp). A Flutter mobile app for a startup laundromat Clean Stream Laundry Solutions.
 - A recipe website [Free Recipe](https://github.com/JasonYoder2026/freerecipe). Using Angular, ASP.NET, and PostgreSQL I'm building a website for people to share and save recipes for free.
-- A project management website [MergeFlow](https://github.com/JasonYoder2026/freerecipe). Using React, Spring Boot, and PostgreSQL I'm making a project management website for small teams and startups to manage their tasks.
+- A used musical equipment eCommerce website [GearVault](https://github.com/JasonYoder2026/GearVault). Using React, Stripe, PHP, and PostgreSQL I'm making a website similar to Reverb.com for musicians to buy and sell gear.
 - Audio processing software similar to Line 6 Helix and Amplitube amplifier simulators. With C++ I'm utilizing memory management to make guitar pedal and amplifier simulators to process sound with very little latency. 
 
 ## Some of my complete projects:
@@ -18,7 +18,7 @@ I'm seeking a long-term opportunity to grow as a software engineer by working wi
 |---------|-------------|
 |[NorthPoint Church App](https://github.com/JasonYoder2026/northpoint_church_app)| A Flutter mobile app for my church, currently in beta testing.|
 |[FTP Client/Server](https://github.com/JasonYoder2026/CS316-Project3) | A multithreaded FTP server/client modeled in Java.|
-|[A Comedian's Website](https://github.com/JasonYoder2026/Kyle-Comedy-Website) | A Next.js website hosted on AWS for a small but growing comedian.|
+|[Kyleschrockcomedy.com](https://github.com/JasonYoder2026/Kyle-Comedy-Website) | A Next.js website hosted on AWS for a small but growing comedian.|
 |[mediaComp](https://github.com/dllargent/mediaComp)| A pip installable Python package for media manipulation. |
 
 ## My Techstack
