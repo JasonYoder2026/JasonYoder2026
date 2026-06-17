@@ -1,16 +1,7 @@
 # Hi There! 👋
 
 ## About Me
-I'm Jason Yoder, a senior at Ball State University studying Computer Science, concentrating in Cybersecurity and Secure Software. I'm a full-stack software engineer with experience in delivering applications in a wide variety of technologies. I prioritize modularity, clean architecture, scalability, and thoughtful design when designing systems. I've built and maintained several CI/CD pipelines to deliver systems to production with ease. 
-
-I'm seeking a long-term opportunity to grow as a software engineer by working with and learning from strong teams who are eager to share their knowledge.  
-
-
-## I'm currently working on:
-- My senior capstone project [Clean Stream Mobile App](https://github.com/jamaki604/CleanStreamLaundryApp). A Flutter mobile app for a startup laundromat Clean Stream Laundry Solutions.
-- A recipe website [Free Recipe](https://github.com/JasonYoder2026/freerecipe). Using Angular, ASP.NET, and PostgreSQL I'm building a website for people to share and save recipes for free.
-- A used musical equipment eCommerce website [GearVault](https://github.com/JasonYoder2026/GearVault). Using React, Stripe, PHP, and PostgreSQL I'm making a website similar to Reverb.com for musicians to buy and sell gear.
-- Audio processing software similar to Line 6 Helix and Amplitube amplifier simulators. With C++ I'm utilizing memory management to make guitar pedal and amplifier simulators to process sound with very little latency. 
+I'm Jason Yoder, a recent graduate of Ball State University where I studied Computer Science. I'm a full-stack software engineer with experience in delivering applications in a wide variety of technologies. I prioritize modularity, clean architecture, scalability, and thoughtful design when designing systems. I've built and maintained several CI/CD pipelines to deliver systems to production with ease. 
 
 ## Some of my complete projects:
 
