@@ -8,7 +8,6 @@ I'm Jason Yoder, a recent graduate of Ball State University where I studied Comp
 | Project | Description |
 |---------|-------------|
 |[NorthPoint Church App](https://github.com/JasonYoder2026/northpoint_church_app)| A Flutter mobile app for my church, currently in beta testing.|
-|[FTP Client/Server](https://github.com/JasonYoder2026/CS316-Project3) | A multithreaded FTP server/client modeled in Java.|
 |[Kyleschrockcomedy.com](https://github.com/JasonYoder2026/Kyle-Comedy-Website) | A Next.js website hosted on AWS for a small but growing comedian.|
 |[mediaComp](https://github.com/dllargent/mediaComp)| A pip installable Python package for media manipulation. |
 
