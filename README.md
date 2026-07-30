@@ -1,7 +1,7 @@
 # Hi There! 👋
 
 ## About Me
-I'm Jason Yoder, a recent graduate of Ball State University where I studied Computer Science. I'm a full-stack software engineer with experience in delivering applications in a wide variety of technologies. I prioritize modularity, clean architecture, scalability, and thoughtful design when designing systems. I've built and maintained several CI/CD pipelines to deliver systems to production with ease. 
+I'm Jason Yoder, a recent graduate of Ball State University where I studied Computer Science. I'm a software engineer with experience in delivering applications in a wide variety of technologies. I prioritize modularity, clean architecture, scalability, and thoughtful design when designing systems. I've built and maintained several CI/CD pipelines to deliver systems to production with ease. 
 
 ## Some of my complete projects:
 
@@ -15,23 +15,15 @@ I'm Jason Yoder, a recent graduate of Ball State University where I studied Comp
 ### Languages
 - Java
 - C/C++
-- C#
 - Python
 - Dart
 - JavaScript
-- HTML
-- CSS
 - TypeScript
 - SQL
 
 ### Frameworks
 - Flutter
 - Spring Boot
-- ASP.NET
-- Django
-- Flask
-- FastAPI
-- Angular.js
 - React.js
 - Express.js
 - Next.js
@@ -40,7 +32,7 @@ I'm Jason Yoder, a recent graduate of Ball State University where I studied Comp
 - PostgreSQL
 - MongoDB
 - MySQL
-- REST API
+
 
 ### Systems
 - GitHub Actions
